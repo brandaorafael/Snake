@@ -1,0 +1,15 @@
+td {
+	background-color: white;
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+	empty-cells: show;
+}
+
+input {
+	width: 300px;
+}
+
+button {
+	width: 300px;
+}
